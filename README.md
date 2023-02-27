@@ -42,8 +42,8 @@ Link- https://www.youtube.com/@thirdweb_
 
 There were a few hiccups on the way but it was a fun project to work on.
 
-Sneak-Peak into the Gameplay
 
+# Sneak-Peak into the Gameplay
 
 <img width="1440" alt="Screenshot 2023-02-28 at 12 37 15 AM" src="https://user-images.githubusercontent.com/94656684/221663680-b7133d11-1778-4f16-bef9-ef34b8b0842b.png">
 
