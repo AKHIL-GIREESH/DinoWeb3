@@ -46,7 +46,7 @@ There were a few hiccups on the way but it was a fun project to work on.
 <img width="1440" alt="Screenshot 2023-02-28 at 12 37 15 AM" src="https://user-images.githubusercontent.com/94656684/221663680-b7133d11-1778-4f16-bef9-ef34b8b0842b.png">
 
 
-<img width="1440" alt="Screenshot 2023-02-28 at 12 37 15 AM" src="https://user-images.githubusercontent.com/94656684/221664246-e646f67a-5bea-48ca-9486-25bb75584e4c.png">
+<img width="520" alt="Screenshot 2023-02-28 at 12 29 31 AM" src="https://user-images.githubusercontent.com/94656684/221664701-eef61442-1d5f-4893-8f36-1f7eba57c2c7.png">
 
 ![image](https://user-images.githubusercontent.com/94656684/221664403-f30e8ffb-33c3-4fa0-829e-174874a11a4f.png)
 
